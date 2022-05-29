@@ -2,7 +2,7 @@
 
 | Github Alias                                         | Name         |
 | ---------------------------------------------------- | ------------ |
-| [@notpavlov](https://github.com/notpavlov)           | A. P.        |
+| [@97131004](https://github.com/97131004)           | A. P.        |
 | [@veselinodjov](https://github.com/veselinodjov)     | Veselin O.   |
 | [@idsider](https://github.com/idsider)               | David S.     |
 
